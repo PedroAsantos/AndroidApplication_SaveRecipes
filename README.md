@@ -4,8 +4,11 @@ This application was not created to save complex meals. The primary objectif was
 common meals and when is the time to decide what you want to do for the next meal you can rapidly decide. 
 
 
--This application was created only for fun 
--The code could be much better
--You may find in the application some bugs
--The design could be much better
+-This application was created only for fun <br />
+-The code could be much better <br />
+-You may find in the application some bugs <br />
+-The design could be much better <br />
 
+
+
+![Alt text](/print1.jpg "Optional Title")
