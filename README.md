@@ -10,7 +10,7 @@ common meals and when is the time to decide what you want to do for the next mea
 -The design could be much better <br />
 -The application is not 100 % finished.
 
-# Main menu
+### Main menu
 ![print1](https://cloud.githubusercontent.com/assets/11279139/18603699/dc458c0e-7c6b-11e6-98a7-3b1f5507ffa0.png)
-# Recipe Menu
+### Recipe Menu
 ![print2](https://cloud.githubusercontent.com/assets/11279139/18603709/f317226c-7c6b-11e6-8f86-bcd294a28b1a.png)
