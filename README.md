@@ -11,4 +11,4 @@ common meals and when is the time to decide what you want to do for the next mea
 
 
 
-![ScreenShot](https://raw.github.com/PedroAsantos/AndroidApplication/master/print1.jpg)
+![ScreenShot](https://raw.github.com/PedroAsantos/AndroidApplication/master/print1.png)
