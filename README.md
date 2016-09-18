@@ -1,5 +1,5 @@
 # AndroidApplication_SaveRecipes
-Simple aplicattion that allows you to save your recipes to help you decide what you will eat in the next meal. This application was not created to save complex meals. The primary goal was to create an application where you save the most common meals and when it's time to decide what you want to do for the next meal you can rapidly decide.
+Simple application that allows you to save your recipes to help you decide what you will eat in the next meal. This application was not created to save complex meals. The primary goal was to create an application where you save the most common meals and when it's time to decide what you want to do for the next meal you can rapidly decide.
 
 -This application was created only for fun <br />
 -The code could be much better <br />
