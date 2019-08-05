@@ -5,7 +5,6 @@ Simple application that allows you to save your recipes to help you decide what 
 -The code could be much better <br />
 -You may find in the application some bugs <br />
 -The design could be much better <br /> 
--The application is not 100 % finished. <br />
 
 ### Main menu
 ![print1](https://cloud.githubusercontent.com/assets/11279139/18603699/dc458c0e-7c6b-11e6-98a7-3b1f5507ffa0.png)
